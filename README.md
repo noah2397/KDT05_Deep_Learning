@@ -11,7 +11,7 @@
 
 - 엘리 스티븐스, 루카 안티가, 현동석(책만)  
    [교재 사이트](https://product.kyobobook.co.kr/detail/S000061353646)  
-   [교재 소스 코드](https://www.manning.com/books/deep-learning-with-pytorch)
+   [교재 소스 코드](https://github.com/deep-learning-with-pytorch/dlwpt-code)
     <details>
     <summary>
       그 외의 관련 사이트
@@ -44,10 +44,14 @@
    
 |날짜(Date) | 제목 | 네이버 블로그 | 관련 디렉토리 |
 | --------  | ---  | -----------| ------------|
-| 23.03.12  | PYTORCH개발환경설정, TENSORFLOW, cuda <->cpu 변환| [Naver Blog](https://blog.naver.com/mathnoah/223380692140)| DAY01/tensor_basic.ipynb  |
-| 23.03.12  |텐서(Tensor) 기본 연산| [Naver Blog](https://blog.naver.com/mathnoah/223380894984)| DAY01/tensor_basic.ipynb  |
-| 23.03.12  |Tensor Shape(형태 변환, 형변환, 차원 추가/제거) | [Naver Blog](https://blog.naver.com/mathnoah/223381016264)| DAY01/tensor_shape.ipynb |
+| 23.03.12  | PYTORCH개발환경설정, TENSORFLOW, cuda <->cpu 변환| [Naver Blog](https://blog.naver.com/mathnoah/223380692140)| DAY01/class/tensor_basic.ipynb  |
+| 23.03.12  |텐서(Tensor) 기본 연산| [Naver Blog](https://blog.naver.com/mathnoah/223380894984)| DAY01/class/tensor_basic.ipynb  |
+| 23.03.12  |Tensor Shape(형태 변환, 형변환, 차원 추가/제거) | [Naver Blog](https://blog.naver.com/mathnoah/223381016264)| DAY01/class/tensor_shape.ipynb |
 | 23.03.12  |Tensor concat, Tensor 차원/형태 변경| [Naver Blog](https://blog.naver.com/mathnoah/223381063931)| DAY01/ |
+| 23.03.13  | 딥러닝 개요| [Naver Blog](https://blog.naver.com/mathnoah/223382007319)| DAY02/ex_or_perceptron.ipynb |
+| 23.03.13  |선형회귀, torch.nn.functional | [Naver Blog](https://blog.naver.com/mathnoah/223382134810)| DAY02/ex_linearRegression.ipynb |
+| 23.03.13  | | [Naver Blog]()| DAY02/ |
+| 23.03.13  | | [Naver Blog]()| DAY02/ |
 | 23.03.13  | | [Naver Blog]()| DAY02/ |
 
 <hr/>
