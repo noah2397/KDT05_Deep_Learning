@@ -46,7 +46,9 @@
 | --------  | ---  | -----------| ------------|
 | 23.03.12  | PYTORCH개발환경설정, TENSORFLOW, cuda <->cpu 변환| [Naver Blog](https://blog.naver.com/mathnoah/223380692140)| DAY01/tensor_basic.ipynb  |
 | 23.03.12  |텐서(Tensor) 기본 연산| [Naver Blog](https://blog.naver.com/mathnoah/223380894984)| DAY01/tensor_basic.ipynb  |
-| 23.03.12  | | [Naver Blog]()| DAY01/ |
+| 23.03.12  |Tensor Shape(형태 변환, 형변환, 차원 추가/제거) | [Naver Blog](https://blog.naver.com/mathnoah/223381016264)| DAY01/tensor_shape.ipynb |
+| 23.03.12  |Tensor concat, Tensor 차원/형태 변경| [Naver Blog](https://blog.naver.com/mathnoah/223381063931)| DAY01/ |
+| 23.03.13  | | [Naver Blog]()| DAY02/ |
 
 <hr/>
 
