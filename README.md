@@ -50,9 +50,9 @@
 | 23.03.12  |Tensor concat, Tensor 차원/형태 변경| [Naver Blog](https://blog.naver.com/mathnoah/223381063931)| DAY01/ |
 | 23.03.13  | 딥러닝 개요| [Naver Blog](https://blog.naver.com/mathnoah/223382007319)| DAY02/ex_or_perceptron.ipynb |
 | 23.03.13  |선형회귀, torch.nn.functional | [Naver Blog](https://blog.naver.com/mathnoah/223382134810)| DAY02/ex_linearRegression.ipynb |
-| 23.03.13  | | [Naver Blog]()| DAY02/ |
-| 23.03.13  | | [Naver Blog]()| DAY02/ |
-| 23.03.13  | | [Naver Blog]()| DAY02/ |
+| 23.03.13  |선형회귀, 이진분류, 다중분류, SoftMax함수, OneHotEncoding| [Naver Blog](https://blog.naver.com/mathnoah/223383139478)| DAY03/Mini_test/24_03_14_미니테스트.ipynb |
+| 23.03.13  |딥러닝 : 클래스 모델 구현, MNIST FASHION 이미지 분석 코드, 학습 스케줄러, 모델 저장 & 로딩, 모델 모드, 모델 파라미터, 손실/비용함수| [Naver Blog](https://blog.naver.com/mathnoah/223383596058)| DAY03/homework.ipynb |
+| 23.03.14  | | [Naver Blog]()| DAY04/ |
 
 <hr/>
 
