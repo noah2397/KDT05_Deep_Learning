@@ -54,6 +54,7 @@
 | 23.03.13  |딥러닝 : 클래스 모델 구현, MNIST FASHION 이미지 분석 코드, 학습 스케줄러, 모델 저장 & 로딩, 모델 모드, 모델 파라미터, 손실/비용함수| [Naver Blog](https://blog.naver.com/mathnoah/223383596058)| DAY03/homework.ipynb |
 | 23.03.18  | 분류 모델 평가 지표 : torchmetrics, sklearn.metrics| [Naver Blog](https://blog.naver.com/mathnoah/223386883614)| DAY05/model_matrix.ipynb |
 | 23.03.19  | 전체 딥러닝 흐름, nn.ModuleList, 모델 세이브, 로드 | [Naver Blog](https://blog.naver.com/mathnoah/223388001130)| DAY05/mnist_DL.ipynb |
+| 23.03.19  | nn.Dropout, 배치 정규화, 가중치 초기화(Xavie,Glorot)| [Naver Blog](https://blog.naver.com/mathnoah/223388211196)| DAY06/Net.ipynb |
 | 23.03.19  | | [Naver Blog]()| DAY06/ |
 
 <hr/>
