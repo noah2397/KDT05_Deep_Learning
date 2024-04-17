@@ -44,18 +44,25 @@
    
 |날짜(Date) | 제목 | 네이버 블로그 | 관련 디렉토리 |
 | --------  | ---  | -----------| ------------|
-| 23.03.12  | PYTORCH개발환경설정, TENSORFLOW, cuda <->cpu 변환| [Naver Blog](https://blog.naver.com/mathnoah/223380692140)| DAY01/class/tensor_basic.ipynb  |
-| 23.03.12  |텐서(Tensor) 기본 연산| [Naver Blog](https://blog.naver.com/mathnoah/223380894984)| DAY01/class/tensor_basic.ipynb  |
-| 23.03.12  |Tensor Shape(형태 변환, 형변환, 차원 추가/제거) | [Naver Blog](https://blog.naver.com/mathnoah/223381016264)| DAY01/class/tensor_shape.ipynb |
-| 23.03.12  |Tensor concat, Tensor 차원/형태 변경| [Naver Blog](https://blog.naver.com/mathnoah/223381063931)| DAY01/ |
-| 23.03.13  | 딥러닝 개요| [Naver Blog](https://blog.naver.com/mathnoah/223382007319)| DAY02/ex_or_perceptron.ipynb |
-| 23.03.13  |선형회귀, torch.nn.functional | [Naver Blog](https://blog.naver.com/mathnoah/223382134810)| DAY02/ex_linearRegression.ipynb |
-| 23.03.13  |선형회귀, 이진분류, 다중분류, SoftMax함수, OneHotEncoding| [Naver Blog](https://blog.naver.com/mathnoah/223383139478)| DAY03/Mini_test/24_03_14_미니테스트.ipynb |
-| 23.03.13  |딥러닝 : 클래스 모델 구현, MNIST FASHION 이미지 분석 코드, 학습 스케줄러, 모델 저장 & 로딩, 모델 모드, 모델 파라미터, 손실/비용함수| [Naver Blog](https://blog.naver.com/mathnoah/223383596058)| DAY03/homework.ipynb |
-| 23.03.18  | 분류 모델 평가 지표 : torchmetrics, sklearn.metrics| [Naver Blog](https://blog.naver.com/mathnoah/223386883614)| DAY05/model_matrix.ipynb |
-| 23.03.19  | 전체 딥러닝 흐름, nn.ModuleList, 모델 세이브, 로드 | [Naver Blog](https://blog.naver.com/mathnoah/223388001130)| DAY05/mnist_DL.ipynb |
-| 23.03.19  | nn.Dropout, 배치 정규화, 가중치 초기화(Xavie,Glorot)| [Naver Blog](https://blog.naver.com/mathnoah/223388211196)| DAY06/Net.ipynb |
-| 23.03.21  | 모델 시각화 : torchinfo, pytorchviz| [Naver Blog](https://blog.naver.com/mathnoah/223390778524)| ---|
+| 24.03.12  | PYTORCH개발환경설정, TENSORFLOW, cuda <->cpu 변환| [Naver Blog](https://blog.naver.com/mathnoah/223380692140)| DAY01/class/tensor_basic.ipynb  |
+| 24.03.12  |텐서(Tensor) 기본 연산| [Naver Blog](https://blog.naver.com/mathnoah/223380894984)| DAY01/class/tensor_basic.ipynb  |
+| 24.03.12  |Tensor Shape(형태 변환, 형변환, 차원 추가/제거) | [Naver Blog](https://blog.naver.com/mathnoah/223381016264)| DAY01/class/tensor_shape.ipynb |
+| 24.03.12  |Tensor concat, Tensor 차원/형태 변경| [Naver Blog](https://blog.naver.com/mathnoah/223381063931)| DAY01/ |
+| 24.03.13  | 딥러닝 개요| [Naver Blog](https://blog.naver.com/mathnoah/223382007319)| DAY02/ex_or_perceptron.ipynb |
+| 24.03.13  |선형회귀, torch.nn.functional | [Naver Blog](https://blog.naver.com/mathnoah/223382134810)| DAY02/ex_linearRegression.ipynb |
+| 24.03.13  |선형회귀, 이진분류, 다중분류, SoftMax함수, OneHotEncoding| [Naver Blog](https://blog.naver.com/mathnoah/223383139478)| DAY03/Mini_test/24_03_14_미니테스트.ipynb |
+| 24.03.13  |딥러닝 : 클래스 모델 구현, MNIST FASHION 이미지 분석 코드, 학습 스케줄러, 모델 저장 & 로딩, 모델 모드, 모델 파라미터, 손실/비용함수| [Naver Blog](https://blog.naver.com/mathnoah/223383596058)| DAY03/homework.ipynb |
+| 24.03.18  | 분류 모델 평가 지표 : torchmetrics, sklearn.metrics| [Naver Blog](https://blog.naver.com/mathnoah/223386883614)| DAY05/model_matrix.ipynb |
+| 24.03.19  | 전체 딥러닝 흐름, nn.ModuleList, 모델 세이브, 로드 | [Naver Blog](https://blog.naver.com/mathnoah/223388001130)| DAY05/mnist_DL.ipynb |
+| 24.03.19  | nn.Dropout, 배치 정규화, 가중치 초기화(Xavie,Glorot)| [Naver Blog](https://blog.naver.com/mathnoah/223388211196)| DAY06/Net.ipynb |
+| 24.03.21  | 모델 시각화 : torchinfo, pytorchviz| [Naver Blog](https://blog.naver.com/mathnoah/223390778524)| ---|
+| 24.04.02  | RNN| [Naver Blog](https://blog.naver.com/mathnoah/223403031556)| 파일첨부 |
+| 24.04.02  | RNN파라미터 | [Naver Blog](https://blog.naver.com/mathnoah/223403382919)| 파일첨부 |
+| 24.04.12  |주식 예측 프로그램 : RNN | [Naver Blog](https://blog.naver.com/mathnoah/223413216276)| 파일첨부 |
+| 24.04.16  |주가 예측 소스코드(RNN) | [Naver Blog](https://blog.naver.com/mathnoah/223416942607)| 파일첨부 |
+| 24.04.16  | LSTM 기반 텍스트 생성| [Naver Blog](https://blog.naver.com/mathnoah/223416955836)| 파일첨부 |
+| 24.04.16  |CRNN을 사용한 자동입력방지문자 간파 | [Naver Blog](https://blog.naver.com/mathnoah/223416973318)| 파일첨부 |
+
 
 <hr/>
 
